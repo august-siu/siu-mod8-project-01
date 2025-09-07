@@ -1,0 +1,4 @@
+Source	Used For/Reason
+1. https://blog.quantinsti.com/portfolio-optimization-methods/	To learn more about Python and how CVXPY and portfolio optimization works
+2. https://github.com/tthustla/efficient_frontier/blob/master/Efficient%20_Frontier_implementation.ipynb	To learn more about how Modern Portfolio Theory, what it means and how it is implemented into python
+3. https://github.com/cvxgrp/cvxportfolio/tree/master/cvxportfolio	To look at specific examples of the cvxpy and how risks, returns and specific stocks were calculated for more information
